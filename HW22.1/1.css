@@ -1,0 +1,47 @@
+body {
+  background-image: url("https://images.ua.prom.st/3637900141_w640_h2048_img_8562.jpg?fresh=1&PIMAGE_ID=3637900141");
+  background-size: 100%;
+}
+h1 {
+  text-shadow: red 2px 1px;
+  text-align: center;
+}
+table {
+ border: solid;
+ width: 100%;
+  }
+th {
+ border: 0;
+ background-color: hsla(50, 33%, 25%, .75);
+   
+}
+
+td {
+  color: gold;
+  border: solid;
+  border-color: black;
+}
+
+tr {
+  border: solid; 
+  font-size: 18px;
+  
+  
+}
+
+.photo {
+  border-radius: 100px;
+  
+  
+}
+
+#text {
+  font-style: italic;
+  font-size: 25px;
+  font-align: center;
+  color: #663399;
+  border: solid;
+  border-color: black;
+  background: 0;
+  
+}
